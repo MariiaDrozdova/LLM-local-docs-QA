@@ -98,7 +98,6 @@ streamlit run app.py
 LLM-search_docs/
 ├── app.py                  # Main app script
 ├── docs/                   # Example documents (ISU regulations)
-├── faiss_index__docs.pkl   # Cached FAISS vector index
 ├── requirements.txt        # Dependencies
 └── .env                    # Hugging Face API token
 ```
