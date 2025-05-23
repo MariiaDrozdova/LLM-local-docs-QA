@@ -60,7 +60,7 @@ You can create your token [here](https://huggingface.co/settings/tokens).
 ### 5. Add your documents (or use the examples)
 
 Put `.pdf`, `.docx`, or `.txt` files in the `docs/` folder.  
-> **Included example**: International Skating Union (ISU) statements from their official (site)[https://www.isu.org/isu-communications/?tab=ISU%20Communications].
+> **Included example**: International Skating Union (ISU) statements from their official [site](https://www.isu.org/isu-communications/?tab=ISU%20Communications).
 
 ### 6. Run the app
 
