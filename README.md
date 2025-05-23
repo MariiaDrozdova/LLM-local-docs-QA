@@ -30,8 +30,8 @@ A lightweight Streamlit app that lets you ask questions about your own `.pdf`, `
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/LLM-search_docs.git
-cd LLM-search_docs
+git clone git@github.com:MariiaDrozdova/LLM-local-docs-QA.git
+cd LLM-local-docs-QA
 ```
 
 ### 2. Create and activate environment
