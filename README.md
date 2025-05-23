@@ -109,9 +109,3 @@ LLM-search_docs/
 After completing the Coursera course [Generative AI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms),  
 I wanted to build something useful and easy to share.  
 This app lets me search my own documents with LLM support — now you can too.
-
----
-
-## License
-
-MIT — free to use, study, and adapt.
