@@ -70,7 +70,7 @@ streamlit run app.py
 
 ---
 
-## ✨ Features
+## Features
 
 - Supports `.pdf`, `.docx`, `.txt` formats
 - Automatically caches vector index (FAISS)
